@@ -83,10 +83,8 @@ repository: #
 comments_provider: gitment
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
-# https://disqus.com
-disqus:
-    username: cheney
-# https://gentie.163.com
+
+
 netease_gentie:
     productKey: 
 # https://imsun.net/posts/gitment-introduction/
