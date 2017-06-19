@@ -63,7 +63,7 @@ quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
 gems:
-    - jekyll-github-metadata
+#    - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
     - jekyll-paginate
@@ -82,7 +82,7 @@ repository: wyscheney/wyscheney.github.io
 #      Comments    #
 # ---------------- #
 # support provider: disqus, netease_gentie, gitment
-comments_provider: false
+comments_provider:
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
