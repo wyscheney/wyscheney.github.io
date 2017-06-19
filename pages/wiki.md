@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Wiki
-description: 人越学越觉得自己无知
+description: 随便写写吧
 keywords: 维基, Wiki
 comments: false
 menu: 维基
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> 总是要记录一些东西的
 
 <ul class="listing">
 {% for wiki in site.wiki %}
