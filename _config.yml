@@ -34,7 +34,9 @@ navs:
   -
     href: /categories/
     label: 分类
-
+  -
+    href: /wiki/
+    label: 维基
   -
     href: /links/
     label: 链接
@@ -88,7 +90,7 @@ disqus:
     username: 
 # https://gentie.163.com
 netease_gentie:
-    productKey: 560ed243b708465d82d5a0a5f3b83da1
+    productKey: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: 
