@@ -74,7 +74,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: wyscheney/wyscheney.github.io
+repository: #
 
 # ---------------- #
 #      Comments    #
@@ -97,7 +97,7 @@ gitment:
         client_id: 
         client_secret: 
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : true
+lazy_load_disqus : false
 
 # ---------------- #
 #    Analytics     #
