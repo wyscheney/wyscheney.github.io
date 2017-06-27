@@ -3,7 +3,7 @@ layout: post
 title: XML Schema 简单编写及应用
 categories: Schema
 description: 最近在看webservice的部分,正好顺便看了一下关于XML Schema的部分,做了一个小的总结,详细的标签属性建议参考官方文档
-keywords: Schema,Schema约束,XML
+keywords: Schema, Schema约束, XML
 ---
 
 ## 什么是XML Schema
